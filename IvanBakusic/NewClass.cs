@@ -8,5 +8,7 @@ namespace IvanBakusic
     class NewClass
     {
         void func() {; }
+
+        void druga() {; }
     }
 }
