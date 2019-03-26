@@ -10,5 +10,7 @@ namespace IvanBakusic
         void func() {; }
 
         void druga() {; }
+        
+        //Ispravka
     }
 }
