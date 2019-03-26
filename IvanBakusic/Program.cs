@@ -9,7 +9,7 @@ namespace IvanBakusic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ja sam Ivan.");
+            Console.WriteLine("Ja sam Ivan i Tomo.");
         }
     }
 }
