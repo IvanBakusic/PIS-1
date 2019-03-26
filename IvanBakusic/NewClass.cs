@@ -7,5 +7,6 @@ namespace IvanBakusic
 {
     class NewClass
     {
+        Console.WriteLine("Ja sam Ivan i Tomo.");
     }
 }
