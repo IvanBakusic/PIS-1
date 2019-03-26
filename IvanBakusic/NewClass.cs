@@ -7,5 +7,6 @@ namespace IvanBakusic
 {
     class NewClass
     {
+        void func() {; }
     }
 }
